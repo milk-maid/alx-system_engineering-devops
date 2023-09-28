@@ -99,7 +99,3 @@ Shell Basics Tasks. From 0 - 18 are scripts and must start with a Shebang. After
 
 19 - 0 string SCHOOL School data
 !:mime School ( this is not a script so it won't star with a Shebang. It's a simple magic file).
-
-
-
-
